@@ -4,7 +4,7 @@
 
 # Estruturação do Desafio.
 
-Dada a segunda etapa para a vaga de Infraestrutura da Triágil, foi proposto o desafio de criar uma API para criação de times de Pokemons. Para isso, foi usado o pokeapi.co. O usuário consegue gerar o time passando como parâmetro o seu nome e os devidos pokémons de sua equipe. 
+Dada a segunda etapa para a vaga de Infraestrutura da Triágil, foi proposto o desafio de criar uma API para criação de times de Pokemons. Para isso, foi usado o pokeapi.co. O usuário consegue gerar o time passando como parâmetro o seu nome e os devidos pokémons de sua equipe. A API foi desenvolvida em TypeScript e utilizando um container em Docker para a inicialização do servidor, onde ele escuta na porta 8080.
 
 # Baixando as dependências.
   - Primeiro: Baixe os arquivos aqui disponíveis para download e os extraia em seu diretório de preferência.
