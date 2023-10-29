@@ -26,7 +26,7 @@ A API foi desenvolvida em TypeScript e utilizando um container em Docker para a 
     ```bash
     docker compose up -d  
 
-  Após esses 4 passos a sua API estara em funcionamento. 
+  Após esses 4 passos a sua API estará em funcionamento. 
   
 # Execução da API.
 - POST : 
