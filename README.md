@@ -22,7 +22,7 @@ A API foi desenvolvida em TypeScript e utilizando um container em Docker para a 
     npm install typescript
    Esses comandos irão baixar as dependências necessárias para a execução da API.
    
-  - Quarto: Levante o container a partir do seguinte comando:
+  - Quarto: Inicie o container a partir do seguinte comando:
     ```bash
     docker compose up -d  
 
