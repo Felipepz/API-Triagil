@@ -1,6 +1,5 @@
-# API Triágil
+# API PokeDex
 
-![Prancheta209](https://github.com/Felipepz/API-Triagil/assets/88398389/fc5728a6-ee74-4561-a806-1b654a2fcd93)
 
 # Estruturação do Desafio.
 
